@@ -6,8 +6,8 @@ Step1:
 ### 1: Create a directory name like : 
 mkdir myProject
 
-and insdie myProject directory create 
-src and dest direcotry.
+and inside myProject directory create, 
+src and dest directory.
 
 ```
 myProject
@@ -44,7 +44,7 @@ module.exports = function(grunt) {
         rollup: {
             pluginFunction: {
                 options: {
-                    // Plugin getter: Some plugins are stateful and this doesn't play nice with multiple bundles. For example the rollup-plugin-babel plugin keeps a track of used babel helpers, and passing the configured plugin only once will cause the helpers to leak from one bundle to another. To prevent that, pass a function that returns an array of plugins, like this:
+                    // Plugin getter: Some plugins are stateful and this doesn't play nice with multiple bundles. For example, the rollup-plugin-babel plugin keeps a track of used babel helpers, and passing the configured plugin only once will cause the helpers to leak from one bundle to another. To prevent that, pass a function that returns an array of plugins, like this:
                     plugins: function() {
                         return [
                             babel({
