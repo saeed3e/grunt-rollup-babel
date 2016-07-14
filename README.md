@@ -89,8 +89,10 @@ npm install
 ### 6: Build the project
 run grunt or grunt-rollup
 
+--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 
-## One step installation:
+## One step installation: (Easy to run)
 clone the repo
 ```
 git clone https://github.com/saeed3e/grunt-rollup-babel.git
