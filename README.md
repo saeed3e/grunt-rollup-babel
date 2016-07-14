@@ -1,7 +1,6 @@
 # grunt-rollup-babel
 Step-by-step guide how to setup rollup and babel with grunt.
 
-Step1:
 
 ### 1: Create a directory name like : 
 mkdir myProject
