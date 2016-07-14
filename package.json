@@ -1,0 +1,11 @@
+{
+  "name": "grunt-rollup-babel",
+  "description": "Grunt plugin for rollup - next-generation ES6 module bundler with babel ",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-config-merge": "^1.2.0",
+    "grunt-rollup": "^0.7.1",
+    "rollup-plugin-babel": "^2.6.1"
+  },
+  "license": "MIT"
+}
