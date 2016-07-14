@@ -86,8 +86,21 @@ module.exports = function(grunt) {
 ```
 npm install
 ```
-
 ### 6: Build the project
 run grunt or grunt-rollup
 
 
+## One step installation:
+clone the repo
+```
+git clone https://github.com/saeed3e/grunt-rollup-babel.git
+```
+and run
+```
+npm install
+```
+
+then run 
+```
+grunt rollup
+```
