@@ -1,6 +1,13 @@
 # grunt-rollup-babel
 Step-by-step guide how to setup rollup and babel with grunt.
 
+### Prerequisites:
+
+```
+node version >= v4.0.0
+grunt-cli >= v1.0.0
+grunt >= v1.0.0
+```
 
 ### 1: Create a directory name like : 
 mkdir myProject
