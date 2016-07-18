@@ -1,5 +1,7 @@
 {
   "name": "grunt-rollup-babel",
+  "url": "https://github.com/saeed3e/grunt-rollup-babel/",
+  "email": "saeed3e@gmial.com",
   "description": "Grunt plugin for rollup - next-generation ES6 module bundler with babel ",
   "devDependencies": {
     "babel-preset-es2015-rollup": "^1.1.1",
@@ -7,6 +9,9 @@
     "grunt-config-merge": "^1.2.0",
     "grunt-rollup": "^0.7.1",
     "rollup-plugin-babel": "^2.6.1"
+  },
+  "engines": {
+    "node": ">=4.0.0"
   },
   "license": "MIT"
 }
