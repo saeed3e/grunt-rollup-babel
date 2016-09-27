@@ -33,7 +33,9 @@ myProject
     "grunt-config-merge": "^1.2.0",
     "grunt-rollup": "^0.7.1",
     "rollup-plugin-babel": "^2.6.1",
-    "babel-plugin-transform-object-assign": "^6.8.0"
+    "babel-preset-es2015": "^6.14.0",
+    "babel-plugin-external-helpers": "^6.8.0",
+    "babel-plugin-transform-object-assign": "^6.8.0",
   },
   "license": "MIT"
 }
